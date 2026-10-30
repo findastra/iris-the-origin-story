@@ -29,3 +29,7 @@ Scenes involving the original Mai are paused until they can be drawn from her re
 
 Story and characters by Astra, written with Claude. Cover picture from
 [Astra's portfolio](https://findastra.github.io/).
+
+## License
+
+No license is granted yet: the story, its characters and the cover stay Astra's.
