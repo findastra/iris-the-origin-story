@@ -15,6 +15,7 @@ from an empty shell. Written with Claude, told aloud at bedtime, and being shape
 | [`canon/rules.md`](canon/rules.md) | Story rules Astra has set |
 | [`story/episode-guide.md`](story/episode-guide.md) | The running order of every episode so far |
 | [`story/chapters/`](story/chapters/) | Chapter text recovered word for word |
+| [`manuscript/`](manuscript/) | The Word manuscript: every chapter in order, with slots for text still to paste in |
 | [`notes/`](notes/) | Worldbuilding and real-world notes that feed the story |
 
 ## Developer Notes
