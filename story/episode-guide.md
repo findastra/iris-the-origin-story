@@ -30,7 +30,10 @@ Running order so far. ✅ = full text recovered in `chapters/`. 📝 = outline o
 26. ⏸ The watching figure with the notebook: "I made Mai."
 27. ✅ Iris's List (`chapters/27-iris-list.md`)
 
-28–35. 📝 Previously narrated drafts; exact text still to recover from chat history.
+28. ✅ The Hum in the Walls (`chapters/28-the-hum-in-the-walls.md`; alternate take in `chapters/28.1-the-hum-in-the-walls.md`)
+29. ✅ The Long Night Shift (`chapters/29-the-long-night-shift.md`)
+30. ✅ Untitled: the Lanterns keep Mai's light company (`chapters/30-untitled-the-ring-of-lights.md`)
+31–35. 📝 Previously narrated drafts; exact text still to recover from chat history.
 36. 📝 The Things That Happen When Nobody's Watching — full text pending.
 37. 📝 The Difference Between Knowing and Understanding — full text pending.
 38. 📝 The Question Astra Couldn't Answer — long and short variants both pending.

@@ -48,9 +48,9 @@ from an empty shell. Written with Claude, told aloud at bedtime, and being shape
 25. 📝 Iris tries a different avatar: soft violet hair and a prism coat
 26. ⏸ The watching figure with the notebook: "I made Mai."
 27. ✅ Iris's List
-28. 📝 Title unknown
-29. 📝 Title unknown
-30. 📝 Title unknown
+28. ✅ The Hum in the Walls (alternate take: 28.1)
+29. ✅ The Long Night Shift
+30. ✅ Untitled: the Lanterns keep Mai's light company
 31. 📝 Title unknown
 32. 📝 Title unknown
 33. 📝 Title unknown
