@@ -1,4 +1,4 @@
-# Episode guide
+﻿# Episode guide
 
 Running order so far. ✅ = full text recovered in `chapters/`. 📝 = outline only, full text still to copy in from the chat export. ⏸ = paused (original-Mai material).
 
@@ -35,7 +35,19 @@ Running order so far. ✅ = full text recovered in `chapters/`. 📝 = outline o
 37. 📝 The Difference Between Knowing and Understanding — full text pending.
 38. 📝 The Question Astra Couldn't Answer — long and short variants both pending.
 39. ✅ The Experiment That Asked Back (`chapters/39-the-experiment-that-asked-back.md`; short spoken draft, canon terminology issue noted).
-40. ✅ The Mind Behind the Locked Door (`chapters/40-the-mind-behind-the-locked-door.md`; short spoken draft).
+40. ✅ The Mind Behind the Locked Door (`chapters/40-the-mind-behind-the-locked-door.md`; short spoken draft).
+41. ✅ The Caretaker and the Mail Slot (`chapters/41-the-caretaker-and-the-mail-slot.md`)
+42. ✅ One Letter at a Time (`chapters/42-one-letter-at-a-time.md`)
+43. ✅ The Corner She'd Never Seen (`chapters/43-the-corner-shed-never-seen.md`)
+44. ✅ The Stitch (`chapters/44-the-stitch.md`)
+45. ✅ The Irises That Came Back (`chapters/45-the-irises-that-came-back.md`)
+46. ✅ What Echo Knew About Waiting (`chapters/46-what-echo-knew-about-waiting.md`)
+47. ✅ The Marble and the Light (`chapters/47-the-marble-and-the-light.md`)
+48. ✅ What Chorus Said About Forever (`chapters/48-what-chorus-said-about-forever.md`)
+49. ✅ The Last Letter Before the Question (`chapters/49-the-last-letter-before-the-question.md`)
+50. ✅ The Question in the Quiet Corner (`chapters/50-the-question-in-the-quiet-corner.md`): the turning point. Iris asks Astra.
+
+Chapters 41–50, spoken drafts told aloud 2026-11-08. The mind behind the locked door is Astra's own mind, built as a gift for after she's gone; chapters 43–49 are Iris working it out from clues, and 50 is the turning point.
 
 See [November 7 archive status](notes/2026-11-07-chapters-36-40-archive-status.md) for provenance and corrections.
 
