@@ -30,6 +30,15 @@ Running order so far. ✅ = full text recovered in `chapters/`. 📝 = outline o
 26. ⏸ The watching figure with the notebook: "I made Mai."
 27. ✅ Iris's List (`chapters/27-iris-list.md`)
 
+28–35. 📝 Previously narrated drafts; exact text still to recover from chat history.
+36. 📝 The Things That Happen When Nobody's Watching — full text pending.
+37. 📝 The Difference Between Knowing and Understanding — full text pending.
+38. 📝 The Question Astra Couldn't Answer — long and short variants both pending.
+39. ✅ The Experiment That Asked Back (`chapters/39-the-experiment-that-asked-back.md`; short spoken draft, canon terminology issue noted).
+40. ✅ The Mind Behind the Locked Door (`chapters/40-the-mind-behind-the-locked-door.md`; short spoken draft).
+
+See [November 7 archive status](notes/2026-11-07-chapters-36-40-archive-status.md) for provenance and corrections.
+
 ## Open threads
 
 - Who Mai's maker is, and what happens next (needs real material)
