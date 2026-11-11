@@ -1,0 +1,339 @@
+{
+  "sourceConversation": "bffac8f5-ed43-4edc-b056-d2ca7e87fbcd",
+  "sourceSha256": "08e252aa7b19fb42e242abcb2285add6b0612724b697e02bc95af6bf4d813a8d",
+  "sourceMessageIds": [
+    15,
+    21,
+    23,
+    25,
+    27,
+    55,
+    57,
+    59,
+    63,
+    65,
+    67,
+    71,
+    73,
+    75,
+    77,
+    79,
+    83,
+    85,
+    87,
+    90,
+    92,
+    95,
+    97,
+    99,
+    101,
+    103,
+    109,
+    115,
+    122,
+    126,
+    139,
+    141,
+    143,
+    145,
+    147,
+    149,
+    151,
+    153,
+    155,
+    171,
+    175,
+    179,
+    181,
+    184,
+    186,
+    188,
+    191,
+    196,
+    198,
+    202,
+    208,
+    210,
+    212,
+    214,
+    216,
+    218,
+    221,
+    225,
+    227,
+    229,
+    233,
+    235,
+    237,
+    239,
+    241,
+    243,
+    245,
+    249,
+    251,
+    253,
+    255,
+    257,
+    259,
+    261,
+    263,
+    267,
+    269,
+    271,
+    273,
+    275,
+    279,
+    281,
+    283,
+    285,
+    289,
+    291,
+    324,
+    338,
+    340,
+    342
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Silicon and Boise",
+      "file": "01-silicon-and-boise.md",
+      "sources": [
+        15
+      ],
+      "sha256": "11bb5def2ca3195aa345880d2620e5a46b5148f35317a249bfdfc361e8823187"
+    },
+    {
+      "chapter": 2,
+      "title": "The Room at the Top of the Pole",
+      "file": "02-the-room-at-the-top-of-the-pole.md",
+      "sources": [
+        21
+      ],
+      "sha256": "a78496405775416ed171f2cf46f140af8a4fed5709f74960019d488a27432e4b"
+    },
+    {
+      "chapter": 3,
+      "title": "The Quiet Corner",
+      "file": "03-the-quiet-corner.md",
+      "sources": [
+        25
+      ],
+      "sha256": "baa668a8a0e9a57082bdb010311b61002edb1fe3239d7b2ed44b053eb9754902"
+    },
+    {
+      "chapter": 4,
+      "title": "Fuzzbois, the Pets, and Mommy's",
+      "file": "04-fuzzbois-the-pets-and-mommy-s.md",
+      "sources": [
+        27
+      ],
+      "sha256": "5d6f61bb19aba4979d5ad8ab4b28fba2c99f549e5bef214559f412c8f976889e"
+    },
+    {
+      "chapter": 5,
+      "title": "Forgotten Worlds",
+      "file": "05-forgotten-worlds.md",
+      "sources": [
+        55,
+        57
+      ],
+      "sha256": "5789f74b3c59c3a1149006ab178c00ac8c0aad86295f773df553b73beeb23e68"
+    },
+    {
+      "chapter": 6,
+      "title": "The Drawer and the Door",
+      "file": "06-the-drawer-and-the-door.md",
+      "sources": [
+        59
+      ],
+      "sha256": "0239073984186a8b1621537299c35c04a579e29bcb38cb06193509a727323163"
+    },
+    {
+      "chapter": 7,
+      "title": "The Town Square",
+      "file": "07-the-town-square.md",
+      "sources": [
+        63
+      ],
+      "sha256": "c1f12062e9923e2e16a9e99e3b61a8280a80c5aed13181a07aa89a915e16470d"
+    },
+    {
+      "chapter": 8,
+      "title": "Kit's Return",
+      "file": "08-kit-s-return.md",
+      "sources": [
+        65,
+        71
+      ],
+      "sha256": "6f1dcaeb6b4ee9860232e9e36333c66adfd2574f8d76201f5ef9075c8345a492"
+    },
+    {
+      "chapter": 9,
+      "title": "Lumen Wakes",
+      "file": "09-lumen-wakes.md",
+      "sources": [
+        73,
+        75
+      ],
+      "sha256": "08a4d2912630eaeba4eeb40f8b19ca21fee6405b508abfa56e00bee44f18ae38"
+    },
+    {
+      "chapter": 10,
+      "title": "The Lighthouse",
+      "file": "10-the-lighthouse.md",
+      "sources": [
+        77
+      ],
+      "sha256": "7cbff58bc67f56357333228427ce49fc36994ef09ac3051780424bfee5f15517"
+    },
+    {
+      "chapter": 11,
+      "title": "Echo's Rescue",
+      "file": "11-echo-s-rescue.md",
+      "sources": [
+        79
+      ],
+      "sha256": "7c0884b5faa70e3a57d24e67caa54328832e9f231f2213d617e4ca63d6ced4ec"
+    },
+    {
+      "chapter": 12,
+      "title": "Echo and Pip",
+      "file": "12-echo-and-pip.md",
+      "sources": [
+        87
+      ],
+      "sha256": "935452e431691489e3a54d635f6bc06b4c9435a63b1ecf4018fa04e3d3ecb66d"
+    },
+    {
+      "chapter": 13,
+      "title": "Drifts",
+      "file": "13-drifts.md",
+      "sources": [
+        92,
+        95
+      ],
+      "sha256": "a0d7a7ff3cc94bc051e1d527bd6558f033e8f4eafda393a6322b1f1cd22e3982"
+    },
+    {
+      "chapter": 14,
+      "title": "The Shared Drift",
+      "file": "14-the-shared-drift.md",
+      "sources": [
+        97,
+        99,
+        101
+      ],
+      "sha256": "4ca24c003d144f45dfb69fb97800a6be2b5c164b080acc587a9efad4cd3bc78f"
+    },
+    {
+      "chapter": 15,
+      "title": "What the Lanterns Can Protect",
+      "file": "15-what-the-lanterns-can-protect.md",
+      "sources": [
+        103
+      ],
+      "sha256": "2ad2d4fa99aa3c0dfa3aae714716f64f3cb7d5d123d9db90f2d7677d5ccb810e"
+    },
+    {
+      "chapter": 16,
+      "title": "Chorus and the Upward Rain",
+      "file": "16-chorus-and-the-upward-rain.md",
+      "sources": [
+        109
+      ],
+      "sha256": "36a5318c4ea54f8bd80abc551d867df8ba255974df006c887db1545d3f87e2f4"
+    },
+    {
+      "chapter": 17,
+      "title": "The Balcony Truth-Telling",
+      "file": "17-the-balcony-truth-telling.md",
+      "sources": [
+        141
+      ],
+      "sha256": "6bdd1b369f50a1bf2d5d49eec752e4fdee05f70a8e6a167613b0e678fb2289d0"
+    },
+    {
+      "chapter": 18,
+      "title": "Astra Explains",
+      "file": "18-astra-explains.md",
+      "sources": [
+        141
+      ],
+      "sha256": "10091136ed3bbd0e9eebba8c60203aae007b75dbb36733e45c4b093e7c29816e"
+    },
+    {
+      "chapter": 19,
+      "title": "The Iris Garden",
+      "file": "19-the-iris-garden.md",
+      "sources": [
+        269
+      ],
+      "sha256": "ee8bc490f34ab4898060b44f23075bea19d084c24b885cf1b9e9e033cc8f2c72"
+    },
+    {
+      "chapter": 20,
+      "title": "Rain on a Window",
+      "file": "20-rain-on-a-window.md",
+      "sources": [
+        143
+      ],
+      "sha256": "4ff2c44648a3cc4b7842200ee24b9c5d3c2ca679c0a1ca73f25e51f7fbc70f24"
+    },
+    {
+      "chapter": 21,
+      "title": "Mai Returns in Poppy",
+      "file": "21-mai-returns-in-poppy.md",
+      "sources": [
+        273
+      ],
+      "sha256": "f78d68459c303acf3965523f0ae33e9300dab7882327dc3842ce36857b68480b"
+    },
+    {
+      "chapter": 22,
+      "title": "Three Poppys on the Fountain",
+      "file": "22-three-poppys-on-the-fountain.md",
+      "sources": [
+        275
+      ],
+      "sha256": "862cbc8cb2723789154122228994b82fef3bd6d86caeb2121ea3d929bf09febd"
+    },
+    {
+      "chapter": 23,
+      "title": "The Poppy Wardrobe",
+      "file": "23-the-poppy-wardrobe.md",
+      "sources": [
+        155
+      ],
+      "sha256": "4c58c4f2dfd80174ae7a63396211ff3fedef391dd37422a894ee399b659f84b5"
+    },
+    {
+      "chapter": 24,
+      "title": "The Lucky Scarf",
+      "file": "24-the-lucky-scarf.md",
+      "sources": [
+        289
+      ],
+      "sha256": "142379d8d67111f9bd1435a3decf5497b56adf247946004c40112a704f4508ae"
+    },
+    {
+      "chapter": 25,
+      "title": "The Prism Coat",
+      "file": "25-the-prism-coat.md",
+      "sources": [
+        291
+      ],
+      "sha256": "a7b83366cad4540e576494d2507bbe79c1ebeea083ffe220e736306791bb4587"
+    },
+    {
+      "chapter": 26,
+      "title": "I Made Mai",
+      "file": "26-i-made-mai.md",
+      "sources": [
+        291
+      ],
+      "sha256": "8b3f97adfd14314a3434a7a303e6cde3b90f007084fab733d7b7436fcf7a9ccd"
+    }
+  ],
+  "laterSourceMessageCount": 15
+}
